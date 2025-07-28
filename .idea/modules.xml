@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/APIone.iml" filepath="$PROJECT_DIR$/.idea/APIone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APIone/APIone.iml" filepath="$PROJECT_DIR$/APIone/APIone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SistemaDePedidos.iml" filepath="$PROJECT_DIR$/.idea/SistemaDePedidos.iml" />
     </modules>
   </component>
 </project>
