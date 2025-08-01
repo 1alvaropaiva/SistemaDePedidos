@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alvaropaiva</groupId>
-	<artifactId>APIone</artifactId>
+	<artifactId>SistemaDePedidos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>APIone</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SistemaDePedidos</name>
+	<description>Sistema de Pedidos SpringBoot para controle de mercadorias e pedidos.</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -53,6 +53,11 @@
 			<groupId>io.projectreactor</groupId>
 			<artifactId>reactor-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.8.9</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
