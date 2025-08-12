@@ -1,4 +1,4 @@
-# Sistema de Pedidos - E-commerce Básico
+# Sistema de Pedidos
 
 ## 📌 Visão Geral
 Sistema de gerenciamento de pedidos para lojas no geral, com:
@@ -7,11 +7,11 @@ Sistema de gerenciamento de pedidos para lojas no geral, com:
 - Relacionamentos complexos entre entidades
 
 ## 🛠 Tecnologias
-- Java 17
+- Java 21
 - Spring Boot 3
 - Spring Data JPA
 - H2 Database (teste)
-- Maven
+- Maven (3.9)
 
 ## 📋 Entidades Principais
 | Entidade       | Descrição                     |
@@ -33,6 +33,6 @@ Use o perfil `test` para dados mockados:
 
 ## 💭 Futuramente
 Features que irei adicionar:
-1. Frontend (Angular, React ou Vanilla HTML+CSS)
+1. Frontend 
 2. Deploy
-3. ...
+3. Banco de dados PostgreSQL
